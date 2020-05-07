@@ -1,1 +1,1 @@
-![image](./home/picture/big.jpg)
+![image](./big.jpg)
